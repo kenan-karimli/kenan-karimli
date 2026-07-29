@@ -1,5 +1,15 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>I'm **Kanan Karimli**, a Computer Science student at the **French-Azerbaijani University (UFAZ)** in collaboration with the **University of Strasbourg (Unistra)**.<br><br>I'm passionate about Artificial Intelligence, Machine Learning, and Software Engineering. I enjoy building practical projects, solving challenging problems, and continuously expanding my knowledge through hands-on experience and lifelong learning.<br><br>I'm currently focused on strengthening my expertise in AI, data science, and software development while actively participating in technical events, hackathons, and open-source projects. My goal is to leverage technology to create innovative solutions with real-world impact.
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+## About me
+
+## 👨‍💻 About Me
+
+I'm **Kanan Karimli**, a Computer Science student at the **French-Azerbaijani University (UFAZ)** in collaboration with the **University of Strasbourg (Unistra)**.
+I'm passionate about Artificial Intelligence, Machine Learning, and Software Engineering. I enjoy building practical projects, solving challenging problems, and continuously expanding my knowledge through hands-on experience and lifelong learning.
+
+I'm currently focused on strengthening my expertise in AI, data science, and software development while actively participating in technical events, hackathons, and open-source projects. My goal is to leverage technology to create innovative solutions with real-world impact.
 
 
 ## 🌐 Socials:
