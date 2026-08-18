@@ -1,1 +1,1 @@
-![GitHubCard repo card for kenan-karimli/nearby-cast](https://githubcard.com/g/5W3gSyDBrPsauSuS.svg)
+![GitHubCard profile card for kenan-karimli](https://githubcard.com/g/9fT3yMdVLgbdw-jT.svg)
